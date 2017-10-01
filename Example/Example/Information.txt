@@ -1,0 +1,6 @@
+﻿JWT:
+	Request auth (form/data):
+		username: admin@gmail.com
+		password: 12345
+	Request with token (header):
+		Authorization: Bearer access_token
